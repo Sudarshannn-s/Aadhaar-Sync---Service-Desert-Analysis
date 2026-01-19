@@ -53,6 +53,3 @@ By implementing **AadhaarSync**, government agencies can:
 * **Reduce Exclusion:** Ensure zero "drop-outs" from the Aadhaar ecosystem due to missed updates.
 * **Optimize Resources:** Deploy expensive mobile assets (vans) based on real-time data demand rather than guesswork.
 * **Scalable Solution:** The modular code is ready to process new monthly API data as soon as it is released.
-
-**Developed by:** [Sudarshann-s]  
-**Category:** Governance & Public Policy Innovation
